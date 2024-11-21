@@ -1,4 +1,4 @@
-# prueba-curso
+# Repositorio de Gabo en el Curso de GIT
 primer repo creado del curso
 
 ## Descripcion
